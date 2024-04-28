@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_person_detection",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
